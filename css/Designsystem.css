@@ -1,0 +1,13 @@
+:root{
+    --orange_normal: #EC9844;
+    --orange_dark: #BD632A;
+    --Orange_Normal_hover: #F1B579;
+    --Orange_Normal_active: #FBE8D5;
+    --Ink_Normal: #1A171C;
+    --Ink_Normal_hover: #4B4554;
+    --Ink_Normal_active: #948CA1;
+    --Placeholder: #E5E3E8;
+    --tw: #293340;
+    --tw_blue: #00ACEE;
+    --bg: #F4F4F4;
+}

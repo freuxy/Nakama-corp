@@ -1,0 +1,63 @@
+/*Général*/ 
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "roboto";
+    font-size: 14px;
+}
+
+
+
+.wrapper{
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+/*Header*/
+
+header{
+    padding: 24px;
+    font-size: 18px;
+}
+
+.menu{
+    display: inline-block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    float: left;
+}
+
+.rs{
+    display: inline-block;
+    float: right;
+    margin-top: 40px;
+}
+
+#rs{
+    float: left;
+    margin-right: 24px;
+}
+
+header li{
+    display: inline;
+    margin-right: 40px;
+}
+header ul{
+    display: inline;
+}
+
+/*Landing*/
+
+#landing{
+    height:15.02%;
+    background-color: #F4F4F4;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    padding: 10%;
+}
